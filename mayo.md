@@ -1,6 +1,6 @@
 # Mayonaise
 
-Some history
+Mayonnaise is a rich, creamy emulsion of egg yolks, oil, and an acid (vinegar or lemon juice). Its history is a vibrant culinary debate blending military legends, European heritage, and eventual American mass production.
 
 ## Ingredients
 
