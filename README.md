@@ -5,3 +5,4 @@
 * [Mayonaise](mayo.md)
 
 ## Hot sauces
+* [Sweet chilli sauce](sweetchilli.md)
